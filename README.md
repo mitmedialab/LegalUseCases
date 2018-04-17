@@ -2,6 +2,6 @@
 
 For reusable design patterns for SSI
 
-* [Job Market](JobMarket.html)
+* [Job Market](https://mitmedialab.github.io/LegalUseCases/JobMarket.html)
 * Government
 * Reputation
