@@ -2,6 +2,6 @@
 
 For reusable design patterns for SSI
 
-* Job Market
+* [Job Market](JobMarket.html)
 * Government
 * Reputation
